@@ -1,6 +1,6 @@
 # Todo List (Static)
 
-A simple to-do list made by me for a college assignment from a web development class.
+A static to-do list made by me for a college assignment from a web development class.
 
 ## Technologies
 
